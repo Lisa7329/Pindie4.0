@@ -4,7 +4,7 @@ const allowedCors = [
     'http://localhost:3000',
     'http://localhost:3005',
     'pindie.yourdomain.nomorepartiesco.ru',
-    'pindie.nomorepartiesco.yourdomain.ru'
+    'yourdomain.pindie.nomorepartiesco.ru'
 ];
 
 function cors(req, res, next) {
